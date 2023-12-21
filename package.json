@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.2",
+    "telegraf": "^4.15.3"
+  },
+  "name": "wikipediabot",
+  "description": "Telegram bot for HSE Winter School master-class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./app/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
