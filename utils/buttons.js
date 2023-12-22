@@ -1,3 +1,5 @@
+//В этом файле хранятся все кнопки
+
 import { Markup } from "telegraf";
 
 

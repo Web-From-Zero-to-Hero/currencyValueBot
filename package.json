@@ -4,7 +4,7 @@
     "nodemon": "^3.0.2",
     "telegraf": "^4.15.3"
   },
-  "name": "wikipediabot",
+  "name": "masterClassBot",
   "description": "Telegram bot for HSE Winter School master-class",
   "version": "1.0.0",
   "main": "index.js",
